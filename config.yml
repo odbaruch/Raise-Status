@@ -42,6 +42,7 @@ params:
         Stewardship pages.
       category: Uncategorized
       link: https://example.com/
+      partial: Test
     - name: First Drafts
       description: All automated and manually requested First Drafts, including any
         which are received in the morning.
@@ -77,6 +78,7 @@ params:
   categories:
     - name: Uncategorized
       untitled: true
+      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
