@@ -2,7 +2,7 @@ title: Raise Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://raisestatus.netlify.app
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
@@ -35,7 +35,7 @@ params:
   useRelativeTime: true
   disableDarkMode: true
   shortDateFormat: 15:04 UTC — Jan 2
-  down: "#AA0000"
+  down: "#FF3838"
   systems:
     - name: Gateway
       category: North Coast
@@ -62,11 +62,11 @@ params:
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
-  disrupted: "#ffb232"
-  notice: "#0065ff"
+  disrupted: "#FFB302"
+  notice: "#2DCCFF"
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
-  ok: "#F2680A"
+  ok: "#56F000"
   categories:
     - name: North Coast
       description: The main servers are located here.
