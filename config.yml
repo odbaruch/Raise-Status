@@ -66,7 +66,7 @@ params:
   notice: "#0747A6"
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
-  ok: "#006644"
+  ok: "#00875A"
   categories:
     - name: North Coast
       description: The main servers are located here.
