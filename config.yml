@@ -35,7 +35,7 @@ params:
   useRelativeTime: true
   disableDarkMode: true
   shortDateFormat: 15:04 UTC — Jan 2
-  down: "#e60000"
+  down: "#FF5630"
   systems:
     - name: Gateway
       category: North Coast
@@ -62,11 +62,11 @@ params:
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
-  disrupted: "#cc4400"
-  notice: "#24478f"
+  disrupted: "#FFAB00"
+  notice: "#00B8D9"
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
-  ok: "#008000"
+  ok: "#36B37E"
   categories:
     - name: North Coast
       description: The main servers are located here.
