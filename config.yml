@@ -37,21 +37,28 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#FF5630"
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
+    - name: Web App
+      description: The MyRaise, Web Editor, Dashboard, Follow Up & Birthdays and
+        Stewardship pages.
       category: Uncategorized
       link: https://example.com/
-    - name: API
-      description: The guts of the application.
+    - name: First Drafts
+      description: All automated and manually requested First Drafts, including any
+        which are received in the morning.
       category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
+    - name: Data Loads
+      description: This is the service responsible for loading in data from your CRM
+        to Raise.
       category: Uncategorized
+    - name: Writebacks
+      category: Uncategorized
+      description: This is the service responsible for returning data from Raise to
+        your CRM.
+    - name: Email Integration
+      category: Uncategorized
+      description: This is the service responsible for picking up any emails you send
+        as actions and returning the data to Raise. This service is reliant on a
+        third-party provider.
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#ffffff"
   enableLastMod: true
@@ -68,10 +75,6 @@ params:
   disableIncidentHistory: false
   ok: "#36B37E"
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
   description: We continuously monitor the status of our services and if there are
