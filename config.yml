@@ -38,11 +38,9 @@ params:
   down: "#FF5630"
   systems:
     - name: Web App
+      category: Uncategorized
       description: The MyRaise, Web Editor, Dashboard, Follow Up & Birthdays and
         Stewardship pages.
-      category: Uncategorized
-      link: https://example.com/
-      partial: Test
     - name: First Drafts
       description: All automated and manually requested First Drafts, including any
         which are received in the morning.
