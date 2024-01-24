@@ -33,7 +33,7 @@ enableGitInfo: true
 params:
   skipSeconds: false
   useRelativeTime: true
-  disableDarkMode: false
+  disableDarkMode: true
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
@@ -56,7 +56,7 @@ params:
   brand: "#ffffff"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/1_raise-tagline.png
+  logo: /img/1_raise-tagline.svg
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
@@ -64,7 +64,7 @@ params:
   useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
@@ -77,4 +77,4 @@ params:
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
