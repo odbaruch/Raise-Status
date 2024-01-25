@@ -45,24 +45,38 @@ params:
     - name: Dashboard
       category: Web App
     - name: UUID Pages
-      category: Follow Ups & Birthdays and Stewardships pages - accessed via the Guide
-    - name: First Drafts
-      description: All automated and manually requested First Drafts, including any
-        which are received in the morning.
-      category: Uncategorized
-    - name: Data Loads
-      description: This is the service responsible for loading in data from your CRM
-        to Raise.
-      category: Uncategorized
-    - name: Writebacks
-      category: Uncategorized
-      description: This is the service responsible for returning data from Raise to
-        your CRM.
+      category: Web App
+      description: Follow Ups & Birthdays and Stewardships pages - accessed via the Guide
+    - name: Automated First Drafts
+      description: First Drafts sent out automatically in the morning
+      category: First Drafts
+    - name: Manual First Drafts
+      category: First Drafts
+      description: First Drafts requested manually from the Guide, Dashboard or UUID pages
+    - name: Rapid Fire
+      category: First Drafts
+      description: First Draft prompts sent automatically after taking an action on a
+        previous prompt
+    - name: Data Loads - Salesforce and RE:NXT
+      description: Loading data from your CRM to Raise
+      category: CRM Integrations
+    - name: Writebacks - Salesforce and RE:NXT
+      category: CRM Integrations
+      description: Returning data from Raise to your CRM
+    - name: Data Loads - All Other CRMs
+      description: Loading data from your CRM to Raise
+      category: CRM Integrations
+    - name: Writebacks - All Other CRMs
+      description: Returning data from Raise to your CRM
+      category: CRM Integrations
     - name: Email Integration
-      category: Uncategorized
-      description: This is the service responsible for picking up any emails you send
-        as actions and returning the data to Raise. This service is reliant on a
-        third-party provider.
+      category: Third Party Integrations
+      description: ""
+    - name: FTP Site
+      category: Third Party Integrations
+      description: ""
+    - name: Email Servers
+      category: Third Party Integrations
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#ffffff"
   enableLastMod: true
@@ -83,7 +97,10 @@ params:
       untitled: true
       closed: false
     - name: Web App
-      description: I'm the description
+      description: ""
+    - name: First Drafts
+    - name: CRM Integrations
+    - name: Third Party Integrations
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
