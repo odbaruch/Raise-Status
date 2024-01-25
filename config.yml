@@ -37,10 +37,15 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#FF5630"
   systems:
-    - name: Web App
-      category: Uncategorized
-      description: The MyRaise, Web Editor, Dashboard, Follow Up & Birthdays and
-        Stewardship pages.
+    - name: MyRaise
+      category: Web App
+      description: ""
+    - name: Web Editor
+      category: Web App
+    - name: Dashboard
+      category: Web App
+    - name: UUID Pages
+      category: Follow Ups & Birthdays and Stewardships pages - accessed via the Guide
     - name: First Drafts
       description: All automated and manually requested First Drafts, including any
         which are received in the morning.
@@ -77,6 +82,8 @@ params:
     - name: Uncategorized
       untitled: true
       closed: false
+    - name: Web App
+      description: I'm the description
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
