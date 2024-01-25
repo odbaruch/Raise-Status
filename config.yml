@@ -96,10 +96,10 @@ params:
     - name: Uncategorized
       untitled: true
       closed: false
+    - name: First Drafts
     - name: Web App
       description: ""
       closed: true
-    - name: First Drafts
     - name: CRM Integrations
       closed: true
     - name: Third Party Integrations
