@@ -57,15 +57,15 @@ params:
       category: First Drafts
       description: First Draft prompts sent automatically after taking an action on a
         previous prompt
-    - name: Data Loads - Salesforce and RE:NXT
+    - name: Data Loads - Salesforce and RE NXT
       description: Loading data from your CRM to Raise
       category: CRM Integrations
-    - name: Writebacks - Salesforce and RE:NXT
-      category: CRM Integrations
-      description: Returning data from Raise to your CRM
     - name: Data Loads - All Other CRMs
       description: Loading data from your CRM to Raise
       category: CRM Integrations
+    - name: Writebacks - Salesforce and RE NXT
+      category: CRM Integrations
+      description: Returning data from Raise to your CRM
     - name: Writebacks - All Other CRMs
       description: Returning data from Raise to your CRM
       category: CRM Integrations
