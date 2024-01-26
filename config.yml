@@ -2,7 +2,7 @@ title: Raise Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://raisestatus.netlify.app
+baseURL: https://raise.status.gravyty.com
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
