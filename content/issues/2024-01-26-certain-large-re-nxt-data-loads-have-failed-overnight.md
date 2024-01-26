@@ -11,4 +11,4 @@ affected:
   - Data Loads - Salesforce and RE NXT
 severity: disrupted
 ---
-*I﻿ssue Reported -* Our automated alerts system has reported a small number of RE NXT data loads had failed overnight.
+*I﻿ssue Reported -* Our automated alerts system has reported a small number of RE NXT data loads have failed overnight.
