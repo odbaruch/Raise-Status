@@ -13,8 +13,8 @@ severity: disrupted
 ---
 **C﻿lient Impact** - Organizations using RE NXT with over 10,000 active donors in Raise should expect to receive automated Stewardship prompts for yesterday's gifts on Monday, Jan 29th. Affected organizations should additionally expect donor data to be out-of-date by one day until tomorrow, Jan 27th.
 
-*I﻿ssue Reported -* Our automated alerts system has reported a small number of RE NXT data loads have failed overnight.
+*Resolved* - Data loads for organizations using RE NXT with over 10,000 active donors in Raise will be rerun automatically this evening after business hours.
 
 *I﻿nvestigation Concluded -* We have concluded our investigation and found that certain large RE NXT data loads timed out overnight due to slow response from the SKY API.
 
-*Resolved* - Data loads for organizations using RE NXT with over 10,000 active donors in Raise will be rerun automatically this evening after business hours.
+*I﻿ssue Reported -* Our automated alerts system has reported a small number of RE NXT data loads have failed overnight.
