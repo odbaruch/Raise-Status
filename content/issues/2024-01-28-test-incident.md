@@ -10,7 +10,7 @@ resolvedWhen: 2024-01-28T19:06:20.855Z
 affected:
   - UUID Pages
   - Dashboard
-  - WebEditor
+  - Web Editor
 severity: disrupted
 ---
 *Test* - This is a test for the site.
