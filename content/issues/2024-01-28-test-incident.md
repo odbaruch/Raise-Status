@@ -11,6 +11,6 @@ affected:
   - UUID Pages
   - Dashboard
   - WebEditor
-severity: notice
+severity: disrupted
 ---
 *Test* - This is a test for the site.
