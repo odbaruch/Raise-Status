@@ -5,7 +5,7 @@ date: 2024-01-26T12:14:26.356Z
 resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2024-01-26T12:36:13.785Z
 affected:
   - Data Loads - Salesforce and RE NXT
