@@ -89,8 +89,8 @@ params:
   useLogo: true
   disrupted: "#FFAB00"
   notice: "#00B8D9"
-  incidentHistoryFormat: monthly
-  disableIncidentHistory: false
+  incidentHistoryFormat: none
+  disableIncidentHistory: true
   ok: "#36B37E"
   categories:
     - name: Uncategorized
