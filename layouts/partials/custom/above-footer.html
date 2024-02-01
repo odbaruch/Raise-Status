@@ -1,4 +1,8 @@
 <script>
   resolvedText = document.querySelector(".ok.tooltip > strong");
   resolvedText.innerHTML = "This issue is resolved.";
+  homePageResolvedTextList = document.querySelectorAll("#incidents .ok");
+  for (const okStatus of homePageResolvedTextList) {
+    okStatus.innerHTML = "This issue is resolved.";
+  }
 </script>
