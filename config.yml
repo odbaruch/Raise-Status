@@ -84,13 +84,13 @@ params:
   logo: /img/1_raise-tagline.svg
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  alwaysKeepBrandColor: true
+  alwaysKeepBrandColor: false
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#FFAB00"
   notice: "#00B8D9"
   incidentHistoryFormat: none
-  disableIncidentHistory: true
+  disableIncidentHistory: false
   ok: "#36B37E"
   categories:
     - name: Uncategorized
