@@ -82,7 +82,7 @@ params:
   enableLastMod: true
   headerTextColor: white
   logo: /img/1_raise-tagline.svg
-  incidentPostsPerPage: 5
+  incidentPostsPerPage: 1
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
