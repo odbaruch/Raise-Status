@@ -82,9 +82,9 @@ params:
   enableLastMod: true
   headerTextColor: white
   logo: /img/1_raise-tagline.svg
-  incidentPostsPerPage: 10
+  incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
-  alwaysKeepBrandColor: false
+  alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#FFAB00"
@@ -105,6 +105,6 @@ params:
     - name: Third Party Integrations
       closed: true
   description: We continuously monitor the status of our services and if there are
-    any interruptions, a note will be posted here.
+    any interruptions, updates will be posted here.
   enableCustomHTML: true
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
