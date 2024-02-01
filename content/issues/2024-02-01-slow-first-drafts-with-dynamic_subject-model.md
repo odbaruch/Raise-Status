@@ -16,3 +16,5 @@ severity: disrupted
 *Investigating* - Some users with the dynamic_subject model implemented may experience a delay in automatic First Drafts sending this morning. Raise's engineering team is currently investigating the cause of the slowdown.
 
 *Update* - AWS is experiencing slowdowns overall this morning. Raise engineering is still investigating the root cause.
+
+*Update* - Engineering has identified the root cause of the slowdown and is working to implement a fix.
