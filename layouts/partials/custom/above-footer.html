@@ -8,3 +8,30 @@
     okStatus.innerHTML = "This issue is resolved.";
   }
 </script>
+<script>
+  topBoxes = document.querySelectorAll(".status-homepage .announcement-box .padding");
+  topBoxesElements = [];
+  topBoxesList = [];
+  bottomBoxes = document.querySelectorAll("#incidents .issue");
+  bottomBoxesElements = [];
+  bottomBoxesList = [];
+  for (const box of topBoxes) {
+      issueTitleUnformatted = box.querySelector("p:first-of-type > a:first-of-type > .bold");
+      issueTitleFormatted = issueTitleUnformatted.innerText.replace(" →",'');
+      topBoxesElements.push(box);
+      topBoxesList.push(issueTitleFormatted);
+  }
+  for (const bottomBox of bottomBoxes) {
+      historyTitleUnformatted = bottomBox.querySelector("h3");
+      historyTitleFormatted = historyTitleUnformatted.innerText;
+      bottomBoxesElements.push(bottomBox);
+      bottomBoxesList.push(historyTitleFormatted);
+  }
+  for (let i=0; i<topBoxesList.length; i++) {
+      if (!bottomBoxesList.includes(topBoxesList[i])) {
+          topBoxesElements[i].style.display = "none";
+      } else if (bottomBoxesElements[i].querySelector(".ok")) {
+          topBoxesElements[i].style.display = "none";
+      };
+  }
+</script>
