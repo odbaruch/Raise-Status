@@ -17,4 +17,6 @@ severity: disrupted
 
 *Update* - AWS is experiencing slowdowns overall this morning. Raise engineering is still investigating the root cause.
 
-*Update* - Engineering has identified the root cause of the slowdown and is working to implement a fix.
+*Update* - Engineering has identified the root cause of the slowdown and is working to implement a fix.\
+\
+*Update* - We are re-sending the morning First Drafts to all affected users. Please be on the lookout for your daily First Drafts in your email inbox shortly.
