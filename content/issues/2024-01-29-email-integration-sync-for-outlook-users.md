@@ -3,7 +3,7 @@ section: issue
 title: Email Integration Sync for Outlook Users
 date: 2024-01-29T16:30:16.611Z
 resolved: false
-draft: false
+draft: true
 informational: false
 pin: false
 resolvedWhen: 2024-01-29T16:30:16.621Z
