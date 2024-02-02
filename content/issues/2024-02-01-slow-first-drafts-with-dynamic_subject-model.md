@@ -2,7 +2,7 @@
 section: issue
 title: Slow First Drafts with dynamic_subject model
 date: 2024-02-01T12:54:20.118Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
@@ -13,6 +13,8 @@ affected:
   - Rapid Fire
 severity: disrupted
 ---
+*R﻿esolved -* We have noticed morning email generation times return to normal. We are continuing to monitor for any decrease in performance.
+
 *U﻿pdate -* We have made several adjustments to  improve email generation times for the morning of 2/2. We will be monitoring the processing and update this site with findings.
 
 *U﻿pdate -* Daily First Drafts are still in the process of being sent for affected users*.*
