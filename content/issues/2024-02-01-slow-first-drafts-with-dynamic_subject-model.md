@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Slow First Drafts with dynamic_subject model
-date: 2024-02-02T08:42:53.156Z
+date: 2024-02-02T11:40:53.156Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-02-02T12:54:20.127Z
+resolvedWhen: 2024-02-02T11:44:20.070Z
 affected:
   - Automated First Drafts
   - Manual First Drafts
