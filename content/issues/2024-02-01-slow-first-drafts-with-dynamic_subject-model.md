@@ -13,6 +13,8 @@ affected:
   - Rapid Fire
 severity: disrupted
 ---
+*U﻿pdate -* We have made several adjustments to  improve email generation times for the morning of 2/2. We will be monitoring the processing and update this site with findings.
+
 *U﻿pdate -* Daily First Drafts are still in the process of being sent for affected users*.*
 
 *Update* - We are re-sending the morning First Drafts to all affected users. Please be on the lookout for your daily First Drafts in your email inbox shortly.
