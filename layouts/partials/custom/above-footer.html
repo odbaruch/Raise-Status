@@ -1,11 +1,26 @@
 <script>
   resolvedText = document.querySelector(".ok.tooltip > strong");
   resolvedText.innerHTML = "This issue is resolved.";
+  warningText = document.querySelector(".warning.tooltip");
+  if (warningText.querySelector("strong").innerText.includes("Resolved") {
+    warningText.classList.remove("warning");
+    warningText.classList.add("ok");
+    warningText.querySelector("strong").innerHTML = "This issue is resolved.";
+  }
 </script>
 <script>
-  homePageResolvedTextList = document.querySelectorAll("#incidents .ok");
-  for (const okStatus of homePageResolvedTextList) {
-    okStatus.innerHTML = "This issue is resolved.";
+  homePageResolvedTextList = document.querySelectorAll("#incidents .issue");
+  for (const status of homePageResolvedTextList) {
+    if (status.querySelector(".ok")) {
+      status.querySelector(".ok").innerHTML = "This issue is resolved.";
+    } else if (status.querySelector(".warning")) {
+      if (status.querySelector(".warning").innerText.includes("Resolved")) {
+        warningToOk = status.querySelector(".warning");
+        warningToOk.classList.remove("warning");
+        warningToOk.classList.add("ok");
+        warningToOk.innerHTML = "This issue is resolved.";
+      }
+    }
   }
 </script>
 <script>
