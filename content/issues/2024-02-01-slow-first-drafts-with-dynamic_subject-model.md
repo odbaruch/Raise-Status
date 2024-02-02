@@ -13,7 +13,7 @@ affected:
   - Rapid Fire
 severity: disrupted
 ---
-*R﻿esolved -* We have noticed morning email generation times return to normal. We are continuing to monitor for any decrease in performance.
+*R﻿esolved -* We have noticed morning email generation times return to normal. We are continuing to monitor for any decreases in performance.
 
 *U﻿pdate -* We have made several adjustments to  improve email generation times for the morning of 2/2. We will be monitoring the processing and update this site with findings.
 
