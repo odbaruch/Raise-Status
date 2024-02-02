@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Slow First Drafts with dynamic_subject model
-date: 2024-02-02T11:40:53.156Z
+date: 2024-02-01T11:40:53.156Z
 resolved: true
 draft: false
 informational: false
