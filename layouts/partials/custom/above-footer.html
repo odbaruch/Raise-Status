@@ -4,7 +4,7 @@
 </script>
 <script>
   warningText = document.querySelector(".warning.tooltip");
-  if (warningText.querySelector("strong").innerText.includes("Resolved") {
+  if (warningText.querySelector("strong").innerText.includes("Resolved")) {
     warningText.classList.remove("warning");
     warningText.classList.add("ok");
     warningText.querySelector("strong").innerHTML = "This issue is resolved.";
