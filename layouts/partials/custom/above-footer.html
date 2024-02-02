@@ -1,6 +1,8 @@
 <script>
   resolvedText = document.querySelector(".ok.tooltip > strong");
   resolvedText.innerHTML = "This issue is resolved.";
+</script>
+<script>
   warningText = document.querySelector(".warning.tooltip");
   if (warningText.querySelector("strong").innerText.includes("Resolved") {
     warningText.classList.remove("warning");
