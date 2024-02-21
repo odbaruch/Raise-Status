@@ -52,3 +52,15 @@
       };
   }
 </script>
+<script>
+  currentIssuesList = document.querySelectorAll("#incidents .issue");
+  for (const issue of currentIssuesList) {
+    issueDate = issue.querySelector(".date").getAttribute("title");
+    issueDate = Date.parse(issueDate);
+    currentDate = Date();
+    currentDate = Date.parse(currentDate);
+    if (currentDate - issueDate > 604800000) {
+      issue.style.display = "none";
+    }
+  }
+</script>
