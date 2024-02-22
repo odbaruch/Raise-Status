@@ -2,7 +2,7 @@
 section: issue
 title: Delays in Data Loading
 date: 2024-02-21T10:30:16.955Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
