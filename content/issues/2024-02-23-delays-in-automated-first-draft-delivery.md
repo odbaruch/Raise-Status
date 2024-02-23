@@ -13,6 +13,8 @@ affected:
   - Manual First Drafts
 severity: disrupted
 ---
+**U﻿pdate** - The hotfix has been deployed, and we are in the process of re-sending all email jobs from this morning.\
+\
 **U﻿pdate** - We are deploying a hotfix for the issue. Please continue to follow along here for updates and resolution.
 
 **U﻿pdate** - Our engineers have isolated the error to an issue with our third-party weather API, which provides core data for First Draft prompt generation. We are currently exploring a workaround. Please continue to follow along here for updates and resolution.
