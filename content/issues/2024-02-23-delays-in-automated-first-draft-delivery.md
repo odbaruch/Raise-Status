@@ -13,6 +13,8 @@ affected:
   - Manual First Drafts
 severity: disrupted
 ---
+**U﻿pdate** - We have confirmed disruptions to Rapid Fire and manually requested prompts and are working to resolve the issue as quickly as possible. Please continue to follow along here for updates and resolution.
+
 **U﻿pdate** - We are investigating reports of disruptions to Rapid Fire and manually requested prompts. Please continue to follow along here for updates and resolution.
 
 **U﻿pdate** - Our engineers are continuing to work on restarting the service for affected users. Prompts will continue to be available via Rapid Fire, and when requested manually, until the service is restarted. Please continue to follow along here for updates and resolution.
