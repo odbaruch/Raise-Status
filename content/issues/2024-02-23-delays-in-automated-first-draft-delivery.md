@@ -13,6 +13,8 @@ affected:
   - Manual First Drafts
 severity: disrupted
 ---
+**U﻿pdate** - We have resent all email jobs to users, and the response rates of the email generation have returned to normal levels. Thank you for your patience- we will continue to monitor the activity throughout the day.
+
 **U﻿pdate** - The hotfix has been deployed, and we are in the process of re-sending all email jobs from this morning.\
 \
 **U﻿pdate** - We are deploying a hotfix for the issue. Please continue to follow along here for updates and resolution.
