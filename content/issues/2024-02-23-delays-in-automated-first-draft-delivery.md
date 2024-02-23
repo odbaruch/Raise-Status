@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Delays in Automated First Draft Delivery
+title: Delays in First Draft Delivery
 date: 2024-02-23T10:30:08.888Z
 resolved: false
 draft: false
