@@ -13,6 +13,8 @@ affected:
   - Manual First Drafts
 severity: disrupted
 ---
+**U﻿pdate** - Our engineers have isolated the error to an issue with our third-party weather API, which provides core data for First Draft prompt generation. We are currently exploring a workaround. Please continue to follow along here for updates and resolution.
+
 **U﻿pdate** - We have confirmed disruptions to Rapid Fire and manually requested prompts and are working to resolve the issue as quickly as possible. Please continue to follow along here for updates and resolution.
 
 **U﻿pdate** - We are investigating reports of disruptions to Rapid Fire and manually requested prompts. Please continue to follow along here for updates and resolution.
