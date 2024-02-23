@@ -2,7 +2,7 @@
 section: issue
 title: Delays in First Draft Delivery
 date: 2024-02-23T10:30:08.888Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
