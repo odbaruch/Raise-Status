@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2024-02-23T18:02:28.549Z
 affected:
   - Automated First Drafts
   - Rapid Fire
