@@ -11,6 +11,7 @@ affected:
   - UUID Pages
   - Dashboard
   - Web Editor
+  - Automated First Drafts
 severity: disrupted
 ---
 *Test* - This is a test for the site.
