@@ -64,3 +64,20 @@
     }
   }
 </script>
+<script>
+  blankIncidents = function() {
+      if (window.location.pathname === "/") {
+          incidentsList = document.querySelectorAll("#incidents .issue");
+          incidentsShown = 0;
+          for (const issue of incidentsList) {
+              if (issue.style.display != "none") {
+                  incidentsShown += 1;
+              };
+          };
+          if (incidentsShown === 0) {
+              document.getElementById("incidents").insertAdjacentHTML("afterbegin",`<h3 class="ok"> No incidents reported in the last 7 days </h3>`);
+          };
+      };
+  }
+  document.addEventListener("DOMContentLoaded", blankIncidents);
+</script>
