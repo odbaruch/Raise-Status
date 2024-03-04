@@ -99,11 +99,11 @@ params:
     - name: First Drafts
     - name: Web App
       description: ""
-      closed: true
+      closed: false
     - name: CRM Integrations
-      closed: true
+      closed: false
     - name: Third Party Integrations
-      closed: true
+      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, updates will be posted here.
   enableCustomHTML: true
