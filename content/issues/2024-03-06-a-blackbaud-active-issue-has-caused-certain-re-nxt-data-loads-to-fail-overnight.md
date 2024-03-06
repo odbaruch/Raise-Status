@@ -2,7 +2,7 @@
 section: issue
 title: A Blackbaud Active Issue has caused certain RE NXT data loads to fail overnight
 date: 2024-03-05T22:30:17.042Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
