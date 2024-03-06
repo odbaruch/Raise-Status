@@ -79,3 +79,20 @@
   }
   document.addEventListener("DOMContentLoaded", blankIncidents);
 </script>
+<script>
+  maintenanceToInfo = function() {
+    componentStatusTextList = document.querySelectorAll(".status-homepage .category .components .component-status");
+    categoryStatusTextList = document.querySelectorAll(".status-homepage .category .category-status");
+    for (const status of componentStatusTextList) {
+        if (status.innerHTML.includes("Maintenance")) {
+            status.innerHTML = " Info "
+        };
+    };
+    for (const status of categoryStatusTextList) {
+        if (status.innerHTML.includes("Maintenance")) {
+            status.innerHTML = " Info "
+        };
+    };
+  };
+  document.addEventListener("DOMContentLoaded", maintenanceToInfo);
+</script>
