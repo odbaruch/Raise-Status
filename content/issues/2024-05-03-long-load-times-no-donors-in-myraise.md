@@ -9,6 +9,6 @@ pin: false
 resolvedWhen: ""
 affected:
   - MyRaise
-severity: down
+severity: disrupted
 ---
 *Investigating* - We have observed an error loading the Settings and Donor Directory pages in MyRaise. The error has been identified as an AWS issue, and our infrastructure team is in the process of identifying the issue.
