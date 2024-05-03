@@ -11,4 +11,4 @@ affected:
   - MyRaise
 severity: disrupted
 ---
-*Investigating* - We have observed an error loading the Settings and Donor Directory pages in MyRaise. The error has been identified as an AWS issue, and our infrastructure team is in the process of identifying the issue.
+*Investigating* - We have observed an error loading the Settings and Donor Directory pages in MyRaise. The error has been identified by Raise engineers and the infrastructure team is in the process of confirming and remedying the issue.
