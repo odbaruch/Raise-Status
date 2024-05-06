@@ -9,8 +9,10 @@ pin: false
 resolvedWhen: ""
 affected:
   - Automated First Drafts
-severity: disrupted
+severity: notice
 ---
+**U﻿pdate** - All First Draft resends have been processed and performance is expected to return to normal within the next few minutes. Our engineers are continuing to monitor in order to confirm resolution of the issue.
+
 **U﻿pdate** - Please expect delays in Rapid Fire and manually requested First Draft prompt sending, and potentially reduced performance of the web app, as we process the resends.
 
 **U﻿pdate** - All First Draft prompts have been requeued and emails are currently sending out to all affected users. Some users should continue to expect duplicate prompts until the resend is complete.
