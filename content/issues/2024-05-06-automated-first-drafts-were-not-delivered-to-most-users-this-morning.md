@@ -11,6 +11,8 @@ affected:
   - Automated First Drafts
 severity: disrupted
 ---
+**U﻿pdate** - All First Draft prompts have been requeued and emails are currently sending out to all affected users. Some users should continue to expect duplicate prompts until the resend is complete.
+
 **Update** - Our engineers are currently working to resend First Draft prompts to all affected users. Some users should expect to receive duplicate prompts as we process the resends.
 
 **I﻿nvestigating** - An issue was detected this morning which has caused some automated First Draft prompts to fail to send. Our engineering team is currently investigating the root cause of the issue.
