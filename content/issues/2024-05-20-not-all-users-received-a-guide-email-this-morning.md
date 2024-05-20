@@ -11,6 +11,8 @@ affected:
   - Automated First Drafts
 severity: disrupted
 ---
+**U﻿pdate** - Guides are currently being resent to all users who did not receive one this morning.
+
 **U﻿pdate** - We have confirmed that Guides were not processed for certain users this morning. Our engineers are working to get Guide emails resent to all affected users as they continue their investigation.
 
 We will update the status on this page when all Guide emails have been resent to affected users.
