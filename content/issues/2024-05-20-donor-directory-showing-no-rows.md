@@ -1,7 +1,7 @@
 ---
 section: issue
 title: 'Donor Directory: Showing "No rows"'
-date: 2024-05-20T19:00:00.000Z
+date: 2024-05-17T19:00:00.000Z
 resolved: false
 draft: false
 informational: false
