@@ -11,4 +11,4 @@ affected:
   - MyRaise
 severity: notice
 ---
-*F﻿ix Implemented-* The Raise engineering team has implemented a fix to allow the Donor Directory to load more quickly. Functionality is currently returned to normal.
+*F﻿ix Implemented -* The Raise engineering team has implemented a fix to allow the Donor Directory to load more quickly. Functionality is currently returned to normal.
