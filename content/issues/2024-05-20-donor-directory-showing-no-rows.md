@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2024-05-20T21:00:00.000Z
 affected:
   - MyRaise
 severity: notice
