@@ -2,7 +2,7 @@
 section: issue
 title: Some RE NXT data loads have failed overnight
 date: 2024-05-24T09:00:43.031Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
