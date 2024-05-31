@@ -1,2 +1,3 @@
-/  https://status.gravyty.com
-/* https://status.gravyty.com
+# Redirects from what the browser requests to what we serve
+/                    https://status.gravyty.com
+/*                   https://status.gravyty.com
